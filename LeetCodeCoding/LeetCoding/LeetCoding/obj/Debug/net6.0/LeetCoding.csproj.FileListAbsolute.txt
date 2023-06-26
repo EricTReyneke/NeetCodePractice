@@ -1,0 +1,15 @@
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\bin\Debug\net6.0\LeetCoding.exe
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\bin\Debug\net6.0\LeetCoding.deps.json
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\bin\Debug\net6.0\LeetCoding.runtimeconfig.json
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\bin\Debug\net6.0\LeetCoding.dll
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\bin\Debug\net6.0\LeetCoding.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\obj\Debug\net6.0\LeetCoding.csproj.AssemblyReference.cache
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\obj\Debug\net6.0\LeetCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\obj\Debug\net6.0\LeetCoding.AssemblyInfoInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\obj\Debug\net6.0\LeetCoding.AssemblyInfo.cs
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\obj\Debug\net6.0\LeetCoding.csproj.CoreCompileInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\obj\Debug\net6.0\LeetCoding.dll
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\obj\Debug\net6.0\refint\LeetCoding.dll
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\obj\Debug\net6.0\LeetCoding.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\obj\Debug\net6.0\LeetCoding.genruntimeconfig.cache
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\LeetCodeCoding\LeetCoding\LeetCoding\obj\Debug\net6.0\ref\LeetCoding.dll
