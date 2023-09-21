@@ -205,5 +205,39 @@
 
             return maxProfit;
         }
+
+        public int LengthOfLongestSubstring(string s)
+        {
+            if (s.Length == 0) return 0;
+
+            string finalSubString = string.Empty;
+            string tempSubString = string.Empty;
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (s.Length - i < finalSubString.Length)
+                    return finalSubString.Length;
+                tempSubString = string.Empty;
+                for (int j = i; j < s.Length; j++)
+                {
+                    tempSubString += s[j];
+                    if (ValidateDuplicates(tempSubString))
+                    {
+                        if (tempSubString.Length > finalSubString.Length)
+                            finalSubString = tempSubString;
+                    }
+                    else
+                    {
+                        tempSubString = string.Empty;
+                        continue;
+                    }
+                }
+            }
+
+            return finalSubString.Length;
+        }
+
+        private bool ValidateDuplicates(string subString) =>
+            subString.ToHashSet().Count == subString.Length;
     }
 }
