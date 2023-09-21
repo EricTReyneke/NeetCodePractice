@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ILr0xmGFWJRkZsKCj6VV2lPO7yl175/sMzbfrwsm5qMmWNCVdLee3jxRw5dFNTxWa2PGb3sN9imSbfsuUzapA==",
+  "dgSpecHash": "xySBJY7dNyMOgj95wc36G+NDzzuHFFkybiOyA/wcVfDvp1dNH7kbbMvpQgLzHZrTwjbRatBbBzZAcQj3FNSm9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EricReyneke\\Documents\\EricReyneke\\LeetcodeOrHackerRank\\LeetCodeCoding\\LeetCoding\\LeetCoding\\LeetCoding.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\NeetCodePractice\\LeetCodeCoding\\LeetCoding\\LeetCoding\\LeetCoding.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
